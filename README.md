@@ -1,8 +1,9 @@
-🦠 COVID-19 Data Analysis & Dashboard - Kenya, Tanzania, Uganda
-📊 Project Overview
+🦠 **COVID-19 Data Analysis & Dashboard - Kenya, Tanzania, Uganda**
+
+📊 **Project Overview**
 This project focuses on end-to-end COVID-19 data analysis for Kenya, Tanzania, and Uganda. Using Python for data wrangling, exploratory analysis, correlation studies, and visualizations, and Power BI for interactive dashboards, the project provides actionable insights for policymakers and public health officials.
 
-✅ Project Workflow
+✅ **Project Workflow**
 Data Collection
 
 Source: Our World in Data - COVID-19 Dataset
